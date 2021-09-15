@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mujtaba4li
--🎓 I am doing Software Engineering
+- 🎓 I am doing Software Engineering
 - 👀 I’m interested in Web & App Development
 - 🌱 I’m currently learning ReactJS
+- 💰 I have 2+ experience in Front-end & Wordpress Websites
 - 💞️ I’m looking to collaborate on React Websites
 - 📫 Reach me via mail -> mujtaba.shafique@outlook.com
 - Or phone/Whatsapp -> +923046511650
