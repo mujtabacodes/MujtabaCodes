@@ -1,9 +1,10 @@
-<p><img align="right" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="mujtaba4li" /></p>
+<p><img align="center" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="mujtaba4li" /></p>
+<br>
 <div class="hero-text">
   <h1 align="center"> Sup Nerds.. I'm Mujtaba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   <p align="center"> A React Developer </p>
  <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mujtaba-shafique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mujtaba-shafique/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mujtaba-shafique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true" alt="https://www.linkedin.com/in/mujtaba-shafique/" height="30" width="40" /></a>
 <a href="https://dev.to/mujtaba4li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mujtaba4li" height="30" width="40" /></a>
 <a href="https://instagram.com/mujt4ba_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mujt4ba_ali" height="30" width="40" /></a>
 <a href="https://twitter.com/mujt4ba_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mujt4ba_ali" height="30" width="40" /></a>
@@ -15,9 +16,9 @@
 
 <br>
 My name is Mujtaba Shafique. I'm a software engineer with a passion for building beautiful user experiences and solving challenging problems.
-&nbsp;&nbsp;
-<br><br>
-<img align="right" alt= "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🎓 I studied Software Engineering
 - ⚡ I’m interested in Web & App Development
