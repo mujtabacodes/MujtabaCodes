@@ -1,4 +1,4 @@
-<p><img align="right" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="mujtaba4li" /></p>
+<p align="center"><img align="center" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="mujtaba4li" /></p>
 <br>
 <div class="hero-text">
   <h1 align="center"> Sup Nerds.. I'm Mujtaba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
@@ -44,10 +44,3 @@ My name is Mujtaba Shafique. I'm a software engineer with a passion for building
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujtaba4li&show_icons=true&locale=en" alt="mujtaba4li" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujtaba4li&" alt="mujtaba4li" /></p>
-
-
-
-
-
-
-
