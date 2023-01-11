@@ -4,7 +4,7 @@
   <h1 align="center"> Sup Nerds.. I'm Mujtaba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   <p align="center"> A React Developer </p>
  <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mujtaba-shafique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true" alt="https://www.linkedin.com/in/mujtaba-shafique/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mujtaba-shafique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true" alt="https://www.linkedin.com/in/mujtaba-shafique/" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://dev.to/mujtaba4li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mujtaba4li" height="30" width="40" /></a>
 <a href="https://instagram.com/mujt4ba_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mujt4ba_ali" height="30" width="40" /></a>
 <a href="https://twitter.com/mujt4ba_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mujt4ba_ali" height="30" width="40" /></a>
