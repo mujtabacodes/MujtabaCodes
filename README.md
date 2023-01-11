@@ -1,4 +1,4 @@
-<p><img align="center" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="mujtaba4li" /></p>
+<p><img align="right" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="mujtaba4li" /></p>
 <br>
 <div class="hero-text">
   <h1 align="center"> Sup Nerds.. I'm Mujtaba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
@@ -17,7 +17,7 @@
 <br>
 My name is Mujtaba Shafique. I'm a software engineer with a passion for building beautiful user experiences and solving challenging problems.
 
-
+<br><br>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🎓 I studied Software Engineering
