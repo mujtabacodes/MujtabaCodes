@@ -6,9 +6,9 @@
  <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mujtaba-shafique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true" alt="https://www.linkedin.com/in/mujtaba-shafique/" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://dev.to/mujtaba4li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mujtaba4li" height="30" width="40" /></a>
-<a href="https://instagram.com/mujt4ba_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mujt4ba_ali" height="30" width="40" /></a>
-<a href="https://twitter.com/mujt4ba_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mujt4ba_ali" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mujtaba_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mujtaba_ali" height="30" width="40" /></a>
+<a href="https://instagram.com/mujtaba.alix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mujt4ba_ali" height="30" width="40" /></a>
+<a href="https://twitter.com/mujtaba4li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mujt4ba_ali" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mujtaba4li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mujtaba_ali" height="30" width="40" /></a>
 </p>
 </div>
 
