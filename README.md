@@ -31,7 +31,7 @@ My name is Mujtaba Shafique. I'm a software engineer with a passion for building
 - 👨‍💻 [Portfolio](https://mujtaba-ali.vercel.app/#portfolio)
 - 📫 Reach me via mail **mujtaba.shafique@outlook.com**
 - 📱  Phone/Whatsapp +923046511650
-- 📝 [Resume](https://mujtaba-ali.vercel.app/static/media/Mujtaba_Shafique.b7d0afc86bff16a107f6.pdf)
+- 📝 [Resume](https://mujtaba-ali.vercel.app/)
 
 🥂 Cheers!
 
