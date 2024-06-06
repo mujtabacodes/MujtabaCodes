@@ -32,9 +32,7 @@
 - 🌱 Currently learning Docker
 - ⚙️ In love with Open Source
 - ☕️ Coffee and coding goes side by side for me
-- 👨‍💻 <a href="https://mujtabacodes.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+- 👨‍💻 [Portfolio](https://www.mujtabacodes.com/#projects)
 - 📫 Reach me via mail **mujtaba.shafique@outlook.com**
 - 📱  Phone/Whatsapp +923295024550
 - 📝 [Resume](https://www.mujtabacodes.com/)
