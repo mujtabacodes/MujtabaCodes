@@ -2,8 +2,8 @@
 <br>
 <div class="hero-text">
   <h1 align="center"> Sup Nerds.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Mujtaba+Shafique;+A+Software+Engineer+👨‍💻;+Web+Application+Developer;+React Developer;+NextJS Developer;+NodeJS Developer;+Full Stack Developer;" />
+ <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Mujtaba+Shafique;A+Software+Engineer+👨‍💻;+Web+Application+Developer;+React+Developer;+NextJS+Developer;+NodeJS+Developer;+Full+Stack+Developer;" />
 </h1>
  <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mujtaba-shafique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true" alt="https://www.linkedin.com/in/mujtaba-shafique/" height="30" width="40" /></a>&nbsp;&nbsp;
