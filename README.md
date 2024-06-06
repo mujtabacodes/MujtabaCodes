@@ -15,9 +15,7 @@
 </div>
 <div align="center"> 
   
-  <a href="https://mujtabacodes.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  
 </div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabacodes&label=Profile%20views&color=0e75b6&style=flat" alt="mujtabacodes" /> </p> -->
@@ -29,12 +27,14 @@
 
 - 🎓 I studied Software Engineering
 - ❤️ Love to Code😋
-- ⚡ I’m interested  to develop beautiful web applications
+- ⚡ Interested  to develop beautiful web applications
 - 👯 Looking to collaborate on **full stack development**
 - 🌱 Currently learning Docker
 - ⚙️ In love with Open Source
 - ☕️ Coffee and coding goes side by side for me
-- 👨‍💻 [Portfolio](https://www.mujtabacodes.com/#projects)
+- 👨‍💻 <a href="https://mujtabacodes.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 - 📫 Reach me via mail **mujtaba.shafique@outlook.com**
 - 📱  Phone/Whatsapp +923295024550
 - 📝 [Resume](https://www.mujtabacodes.com/)
