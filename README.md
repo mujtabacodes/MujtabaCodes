@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Mujtaba+Shafique;A+Software+Engineer+👨‍💻;+Web+Application+Developer;+React+Developer;+NextJS+Developer;+NodeJS+Developer;+Full+Stack+Developer;" />
 </h1>
  <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mujtaba-shafique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true" alt="https://www.linkedin.com/in/mujtaba-shafique/" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mujtaba-shafique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true" alt="https://www.linkedin.com/in/mujtaba-shafique/" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://dev.to/mujtabacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mujtabacodes" height="30" width="40" /></a>
 <a href="https://instagram.com/mujtabacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mujtabacodes" height="30" width="40" /></a>
 <a href="https://twitter.com/mujtabacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mujtabacodes" height="30" width="40" /></a>
