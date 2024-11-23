@@ -5,7 +5,7 @@
 <div class="hero-text">
   <h1 align="center"> Sup Nerds.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Mujtaba+Shafique;A+Software+Engineer+👨‍💻;+Web+Application+Developer;+React+Developer;+NextJS+Developer;+NodeJS+Developer;+Full+Stack+Developer;+Nest+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Mujtaba+Shafique;A+Software+Engineer+👨‍💻;+Web+Application+Developer;+React+Developer;+NextJS+Developer;+NodeJS+Developer;+Full+Stack+Developer;+NestJS+Developer;" />
 </h1>
 
 
@@ -71,6 +71,8 @@
 - 📝 [Resume](https://www.mujtabacodes.com/)
 
 🥂 Cheers!
+<br/>
+<br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
