@@ -176,7 +176,7 @@
       &nbsp; &nbsp;
         </a>
    <a href="https://ww2.comsats.edu.pk/ciitblogs/BlogsDetailsOuter.aspx?ArticleId=196566">
-     <img src="visio_spark_competition.jpeg" width="390">
+     <img src="visio_spark_competition.jpg" width="390">
       &nbsp; &nbsp;
         </a>
         
