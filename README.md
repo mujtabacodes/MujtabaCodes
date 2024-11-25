@@ -25,7 +25,7 @@
 
 
 
-<a href="https://instagram.com/mutjabacodes" target="_blank">
+<a href="https://instagram.com/mujtabacodes" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://www.leetcode.com/mujtabacodes" target="_blank">
@@ -62,7 +62,7 @@
 - 🎓 I studied Software Engineering
 - ❤️ Love to Code😋
 - ⚡ Interested  to develop beautiful web applications
-- 👯 Looking to collaborate on **full stack development**
+- 👯 Looking to collaborate on **Full Stack development**
 - 🌱 Currently learning GraphQL & Radis
 - ⚙️ In love with Open Source
 - ☕️ Coffee and coding goes side by side for me
@@ -76,9 +76,81 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui,redux,nodejs,express,spring,typescript,prisma,html,css,git" />
-    <img src="https://skillicons.dev/icons?i=,github,mysql,mongodb,postgres,aws,java,javascript,nginx,vim,kubernetes,docker" /><br>
-    
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+    </a>
+    <a href="https://mui.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mui" alt="MUI" />
+    </a>
+    <a href="https://redux.js.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+    </a>
+    <a href="https://spring.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+    </a>
+    <a href="https://www.prisma.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    </a>
+    </div>
+
+<div align="center">
+    <a href="https://github.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+    </a>
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+    </a>
+    <a href="https://www.nginx.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" />
+    </a>
+    <a href="https://www.vim.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vim" alt="Vim" />
+    </a>
+    <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+    </a>
 </div>
 
   
