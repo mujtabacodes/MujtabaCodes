@@ -185,9 +185,26 @@
 <h2 align="center"></h2>
 <br>
 <p align="center">
-<a href="https://www.buymeacoffee.com/mujtabacodw"> 
- <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mujtabacodes" /></a>
+    <a href="https://wakatime.com/@mujtabacodes">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujtabacodes&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
 </p>
+
+<h2 align="center">🎖️Project Demo Playlist🎖️</h2>
+<p align="center">
+  🚧 These are just a few <strong><em> handpicked public demos</em></strong> I’ve chosen to showcase. Some projects are under NDA or involve sensitive business logic, so can’t be shared.
+</p>
+
+
+
+
+<p align="center">
+  <a href="https://youtube.com/playlist?list=PLsm-4sBFg6M-0jWidn8P2RzvZ5CtYoDBM" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
+
+
 <!--<img align="center" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="mujtabacodes" />-->
 <!--<h3 align="center">-->
   
