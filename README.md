@@ -12,15 +12,15 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mujtaba-shafique/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white%20alt=linkedin%20style="margin-bottom: 5px;" />
+ 
 </a>
-
 
 <a href="https://dev.to/mujtabacodes" target="_blank">
 <img alt="LeetCode" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 <a href="https://x.com/mujtabacodes" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/X-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white%20alt=linkedin%20style="margin-bottom: 5px;" />
 </a>
 
 
@@ -88,8 +88,14 @@
     <a href="https://mui.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=mui" alt="MUI" />
     </a>
-    <a href="https://redux.js.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+     <a href="https://redux.js.org/" target="_blank">
+        <img 
+            src="https://techstack-generator.vercel.app/redux-icon.svg" 
+            alt="Redux" 
+            width="46" 
+            height="46" 
+            style="border-radius:10px; border:1px solid #5d0aa1" 
+        />
     </a>
     <a href="https://nodejs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
@@ -103,8 +109,14 @@
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
     </a>
-    <a href="https://www.prisma.io/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
+  <a href="https://graphql.org/" target="_blank">
+          <img 
+            src="https://techstack-generator.vercel.app/graphql-icon.svg" 
+            alt="GraphQL" 
+            width="46" 
+            height="46" 
+            style="border-radius:10px; border: 1px solid #b507b5" 
+        />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
@@ -119,10 +131,15 @@
 
 <div align="center">
     <a href="https://github.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+     <img 
+    src="https://techstack-generator.vercel.app/github-icon.svg" 
+    alt="Nginx" 
+    width="46" 
+    height="46" 
+    style=" border-radius:10px; border:1px solid black "/>
     </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+     <a href="https://www.prisma.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
@@ -130,29 +147,54 @@
     <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
     </a>
+     <a href="https://www.mysql.com/" target="_blank">
+        <img 
+    src="https://techstack-generator.vercel.app/mysql-icon.svg" 
+    alt="Nginx" 
+    width="44" 
+    height="44" 
+    style="background:white; border-radius:10px; border:1px solid blue; "/>
+    </a>
     <a href="https://aws.amazon.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-    </a>
-    <a href="https://www.java.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
     </a>
-    <a href="https://www.nginx.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" />
+     <a href="https://www.docker.com/" target="_blank">
+        <img 
+            src="https://techstack-generator.vercel.app/docker-icon.svg" 
+            alt="Docker" 
+            width="46" 
+            height="46" 
+            style="border-radius:10px; border:1px solid skyblue" 
+        />
     </a>
-    <a href="https://www.vim.org/" target="_blank">
+    <a href="https://www.nginx.com/" target="_blank">
+  <img 
+    src="https://techstack-generator.vercel.app/nginx-icon.svg" 
+    alt="Nginx" 
+    width="46" 
+    height="46" 
+    style="background:black; border-radius:10px; " 
+  />
+</a>
+  <a href="https://www.java.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    </a>
+<a href="https://www.vim.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vim" alt="Vim" />
     </a>
     <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+        <img 
+            src="https://techstack-generator.vercel.app/kubernetes-icon.svg" 
+            alt="Kubernetes" 
+            width="46" 
+            height="46" 
+            style="border-radius:10px;border:1px solid" 
+        />
     </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-    </a>
-</div>
-
+<
   
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
