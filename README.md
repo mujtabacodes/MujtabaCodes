@@ -128,12 +128,7 @@
 
 <div align="center">
     <a href="https://github.com/" target="_blank">
-     <img 
-    src="https://techstack-generator.vercel.app/github-icon.svg" 
-    alt="Nginx" 
-    width="46" 
-    height="46" 
-    style=" border-radius:10px; border:1px solid black "/>
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     </a>
      <a href="https://www.prisma.io/" target="_blank">
         <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
