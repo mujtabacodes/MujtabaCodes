@@ -20,7 +20,7 @@
 <img alt="LeetCode" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 <a href="https://x.com/mujtabacodes" target="_blank">
-<img src="https://img.shields.io/badge/X-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white%20alt=linkedin%20style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
 
