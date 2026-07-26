@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://dev.to/mujtabacodes" target="_blank">
-<img alt="LeetCode" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+<!-- <img alt="LeetCode" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/> -->
 </a>
 
 <a href="https://instagram.com/mujtabacodes" target="_blank">
