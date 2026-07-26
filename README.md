@@ -19,14 +19,14 @@
 </a>
 
 <a href="https://dev.to/mujtabacodes" target="_blank">
-<!-- <img alt="LeetCode" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/> -->
+<img alt="LeetCode" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/mujtabacodes" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://www.leetcode.com/mujtabacodes" target="_blank">
-<img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+<!-- <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/> -->
 </a>
 
 <!--<a href="https://www.youtube.com/user/" target="_blank">-->
